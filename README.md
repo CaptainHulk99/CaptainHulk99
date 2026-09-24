@@ -60,11 +60,7 @@ Full incident lifecycle on a simulated executive account takeover — password s
 
 ### `>_` GitHub stats
 
-<div align="center">
 
-![Tejpal's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaptainHulk99&show_icons=true&theme=dark&hide_border=true&title_color=6C9BF5&icon_color=6C9BF5&text_color=c9d1d9&bg_color=00000000&cache_seconds=1800)
-
-</div>
 
 ---
 
