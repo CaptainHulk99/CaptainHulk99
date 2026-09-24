@@ -19,7 +19,7 @@ Currently building out simulated SOC engagements to sharpen investigation and re
 
 ---
 
-### `>_` currently investigating
+### `>_` currently investigated
 
 **[Cloudora CEO Account Takeover](https://github.com/CaptainHulk99/Cloudora-ceo-account-takeover)**
 Full incident lifecycle on a simulated executive account takeover — password spray → initial access → MFA persistence → BEC inbox-rule staging → second victim found during scoping. Mapped to MITRE ATT&CK, written up as a formal incident report.
