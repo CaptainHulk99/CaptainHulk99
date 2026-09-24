@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=1F3864&height=180&section=header&text=Tejpal%20Singh%20Tomar&fontSize=42&fontColor=ffffff&desc=SOC%20Analyst%20%7C%20Blue%20Team%20%7C%20Threat%20Detection&descSize=18&descAlign=50&fontAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=1F3864&height=220&section=header&text=Tejpal%20Singh%20Tomar&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=SOC%20Analyst%20%7C%20Blue%20Team%20%7C%20Threat%20Detection&descSize=17&descAlignY=56&descAlign=50&fontAlign=50)
 
 ```
 $ whoami
@@ -62,7 +62,7 @@ Full incident lifecycle on a simulated executive account takeover — password s
 
 <div align="center">
 
-![Tejpal's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaptainHulk99&show_icons=true&theme=transparent&hide_border=true&title_color=1F3864&icon_color=1F3864&text_color=888888)
+![Tejpal's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaptainHulk99&show_icons=true&theme=dark&hide_border=true&title_color=6C9BF5&icon_color=6C9BF5&text_color=c9d1d9&bg_color=00000000&cache_seconds=1800)
 
 </div>
 
